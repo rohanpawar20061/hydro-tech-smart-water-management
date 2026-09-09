@@ -1,0 +1,24 @@
+{
+  "name": "Hydro-Tech Smart Water Management",
+  "short_name": "Hydro-Tech",
+  "description": "Smart water monitoring and control system",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0ea5e9",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/assets/chatgpt_image_mar_28_2026_07_53_09_pm-019d38d4-c150-7469-ab36-5a279995318e.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/chatgpt_image_mar_28_2026_07_53_09_pm-019d38d4-c150-7469-ab36-5a279995318e.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
